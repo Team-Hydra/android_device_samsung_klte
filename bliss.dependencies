@@ -1,0 +1,38 @@
+[
+  {
+    "remote": "github",
+    "repository": "Team-Hydra/android_device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_kernel_samsung_klte",
+    "target_path": "kernel/samsung/klte",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "TeamBliss-Devices",
+    "repository": "android_device_samsung_klte-common",
+    "target_path": "device/samsung/klte-common",
+    "revision": "lp5.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "github",
+    "repository": "Team-Hydra/android_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision": "cm-12.0"
+  }
+]
